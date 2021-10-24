@@ -1,0 +1,52 @@
+Before sorting: Container contains 50 elements.
+
+1: Name = Bird. Weight = 25. It is a bird. Can flight? = yes. Quotient = 15.400000
+2: Name = Bird. Weight = 35. It is a bird. Can flight? = no. Quotient = 11.000000
+3: Name = Bird. Weight = 153. It is a bird. Can flight? = no. Quotient = 2.516340
+4: Name = Beast. Weight = 151. It is a beast. It is garden. Quotient = 3.278146
+5: Name = Bird. Weight = 9. It is a bird. Can flight? = yes. Quotient = 42.777778
+6: Name = Beast. Weight = 113. It is a beast. It is garden. Quotient = 4.380531
+7: Name = Bird. Weight = 164. It is a bird. Can flight? = yes. Quotient = 2.347561
+8: Name = Fish. Weight = 23. It is a fish. It lives in river. Quotient = 17.130435
+9: Name = Fish. Weight = 46. It is a fish. It lives in river. Quotient = 8.565217
+10: Name = Bird. Weight = 114. It is a bird. Can flight? = yes. Quotient = 3.377193
+11: Name = Beast. Weight = 100. It is a beast. It is domestic. Quotient = 4.950000
+12: Name = Beast. Weight = 81. It is a beast. It is garden. Quotient = 6.111111
+13: Name = Bird. Weight = 181. It is a bird. Can flight? = no. Quotient = 2.127072
+14: Name = Beast. Weight = 151. It is a beast. It is wild. Quotient = 3.278146
+15: Name = Beast. Weight = 105. It is a beast. It is wild. Quotient = 4.714286
+16: Name = Fish. Weight = 38. It is a fish. It lives in river. Quotient = 10.368421
+17: Name = Bird. Weight = 115. It is a bird. Can flight? = yes. Quotient = 3.347826
+18: Name = Bird. Weight = 162. It is a bird. Can flight? = yes. Quotient = 2.376543
+19: Name = Bird. Weight = 60. It is a bird. Can flight? = yes. Quotient = 6.416667
+20: Name = Fish. Weight = 127. It is a fish. It lives in river. Quotient = 3.102362
+21: Name = Bird. Weight = 200. It is a bird. Can flight? = yes. Quotient = 1.925000
+22: Name = Fish. Weight = 9. It is a fish. It lives in river. Quotient = 43.777778
+23: Name = Fish. Weight = 92. It is a fish. It lives in lake. Quotient = 4.282609
+24: Name = Fish. Weight = 95. It is a fish. It lives in lake. Quotient = 4.147368
+25: Name = Bird. Weight = 148. It is a bird. Can flight? = yes. Quotient = 2.601351
+26: Name = Bird. Weight = 2. It is a bird. Can flight? = no. Quotient = 192.500000
+27: Name = Beast. Weight = 159. It is a beast. It is domestic. Quotient = 3.113208
+28: Name = Bird. Weight = 142. It is a bird. Can flight? = yes. Quotient = 2.711268
+29: Name = Beast. Weight = 49. It is a beast. It is garden. Quotient = 10.102041
+30: Name = Fish. Weight = 127. It is a fish. It lives in lake. Quotient = 3.102362
+31: Name = Beast. Weight = 84. It is a beast. It is domestic. Quotient = 5.892857
+32: Name = Fish. Weight = 16. It is a fish. It lives in sea. Quotient = 24.625000
+33: Name = Beast. Weight = 19. It is a beast. It is wild. Quotient = 26.052632
+34: Name = Beast. Weight = 100. It is a beast. It is garden. Quotient = 4.950000
+35: Name = Beast. Weight = 152. It is a beast. It is wild. Quotient = 3.256579
+36: Name = Fish. Weight = 126. It is a fish. It lives in river. Quotient = 3.126984
+37: Name = Bird. Weight = 181. It is a bird. Can flight? = yes. Quotient = 2.127072
+38: Name = Beast. Weight = 118. It is a beast. It is domestic. Quotient = 4.194915
+39: Name = Fish. Weight = 22. It is a fish. It lives in sea. Quotient = 17.909091
+40: Name = Beast. Weight = 140. It is a beast. It is domestic. Quotient = 3.535714
+41: Name = Beast. Weight = 126. It is a beast. It is wild. Quotient = 3.928571
+42: Name = Beast. Weight = 183. It is a beast. It is domestic. Quotient = 2.704918
+43: Name = Fish. Weight = 116. It is a fish. It lives in lake. Quotient = 3.396552
+44: Name = Bird. Weight = 123. It is a bird. Can flight? = no. Quotient = 3.130081
+45: Name = Beast. Weight = 42. It is a beast. It is garden. Quotient = 11.785714
+46: Name = Beast. Weight = 80. It is a beast. It is garden. Quotient = 6.187500
+47: Name = Fish. Weight = 107. It is a fish. It lives in sea. Quotient = 3.682243
+48: Name = Bird. Weight = 71. It is a bird. Can flight? = no. Quotient = 5.422535
+49: Name = Beast. Weight = 125. It is a beast. It is wild. Quotient = 3.960000
+50: Name = Fish. Weight = 142. It is a fish. It lives in lake. Quotient = 2.774648

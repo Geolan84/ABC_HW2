@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ABC.dir/sources/Fish.cpp.o CMakeFiles/ABC.dir/sources/Bird.cpp.o CMakeFiles/ABC.dir/sources/Beast.cpp.o CMakeFiles/ABC.dir/sources/Animal.cpp.o CMakeFiles/ABC.dir/sources/Container.cpp.o CMakeFiles/ABC.dir/sources/main.cpp.o  -o ../bin/ABC 

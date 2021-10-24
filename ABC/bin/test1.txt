@@ -1,0 +1,5 @@
+2 fishy 20 3
+1 birdy 45 false
+1 birdy_check 50 true
+3 berst 500 2
+2 fishy2 200 2

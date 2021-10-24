@@ -1,0 +1,3 @@
+/home/longlongman/ABC/build/CMakeFiles/rebuild_cache.dir
+/home/longlongman/ABC/build/CMakeFiles/edit_cache.dir
+/home/longlongman/ABC/build/CMakeFiles/ABC.dir

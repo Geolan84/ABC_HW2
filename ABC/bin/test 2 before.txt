@@ -1,0 +1,10 @@
+Before sorting: Container contains 8 elements.
+
+1: Name = smallberst. Weight = 100. It is a beast. It is domestic. Quotient = 10.810000
+2: Name = fishy. Weight = 20. It is a fish. It lives in lake. Quotient = 27.350000
+3: Name = birdy_check. Weight = 50. It is a bird. Can flight? = yes. Quotient = 22.860000
+4: Name = BigBeast. Weight = 1000. It is a beast. It is garden. Quotient = 0.769000
+5: Name = birdy_first. Weight = 45. It is a bird. Can flight? = no. Quotient = 26.333333
+6: Name = berst. Weight = 500. It is a beast. It is wild. Quotient = 1.088000
+7: Name = fishy2. Weight = 200. It is a fish. It lives in river. Quotient = 2.985000
+8: Name = Pike. Weight = 10000. It is a fish. It lives in lake. Quotient = 0.039300

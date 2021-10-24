@@ -1,0 +1,9 @@
+Before sorting: Container contains 7 elements.
+
+1: Name = rooster. Weight = 50. It is a bird. Can flight? = yes. Quotient = 15.640000
+2: Name = pinkSalmon. Weight = 1500. It is a fish. It lives in lake. Quotient = 0.701333
+3: Name = parrot. Weight = 15. It is a bird. Can flight? = yes. Quotient = 44.266667
+4: Name = Bear. Weight = 50000. It is a beast. It is wild. Quotient = 0.007560
+5: Name = fishy2. Weight = 200. It is a fish. It lives in sea. Quotient = 2.985000
+6: Name = Eagle. Weight = 5000. It is a bird. Can flight? = yes. Quotient = 0.095600
+7: Name = Ostrich. Weight = 25000. It is a bird. Can flight? = no. Quotient = 0.029280
